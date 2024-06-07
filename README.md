@@ -11,3 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorun&show_icons=true&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorun&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yorun)
