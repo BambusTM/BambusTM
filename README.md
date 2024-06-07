@@ -13,6 +13,6 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorun&show_icons=true&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorun&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yorun)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BambusTM&show_icons=true&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BambusTM&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BambusTM)
