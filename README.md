@@ -12,5 +12,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BambusTM&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BambusTM)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BambusTM&layout=compact)
